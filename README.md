@@ -1,4 +1,4 @@
-# nobroker-scrapper
+# nobroker-scraper
 
 This Python web scraper is specifically developed to extract valuable information about rental properties in India from the NoBroker website. By running this scraper, you can collect details such as property age, furnishing description, truncated locality, rent, property size, property title, start date, water supply, deposit, furnishing status, street, address, location, owner name, maintenance details, society details, facing description, total floor count, availability date, parking availability, phone number, and property detail URL.
 
@@ -6,11 +6,11 @@ This Python web scraper is specifically developed to extract valuable informatio
 
 1. Clone this GitHub repository to your local machine using the command below:
 ```
-git clone https://github.com/iamshreeram/nobroker-scrapper.git
+git clone https://github.com/iamshreeram/nobroker-scraper.git
 ```
 2. Navigate to the project directory:
 ```
-cd nobroker-scrapper
+cd nobroker-scraper
 ```
 3. Install the required Python packages using pip:
 ```
